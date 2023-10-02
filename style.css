@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+.line{
+    background-color: black;
+    height: 12px;
+    width: 100%;
+}
+
+h1{
+    color: white;
+    background-color: grey;
+    font-family: system-ui;
+    padding: 10px;
+}
+
+img{
+    width: 500;
+    height: 500;
+}
